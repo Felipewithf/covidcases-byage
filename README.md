@@ -1,8 +1,7 @@
-# React + Vite
+# Data Visualization Dashboard for COVID-19 Vaccine Data in Ontario
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview
+This interactive data visualization dashboard was designed to provide Ontario citizens with accessible and insightful COVID-19 cases data. By using visual storytelling and intuitive data displays, the dashboard aims to improve user understanding of demographics distribution across Ontario.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Objective
+The primary goal is to present the rate of covid-19 cases in a way that is user-friendly and meaningful for Ontario residents, enabling informed decision-making and raising awareness about case rates by age demographics in the province.

@@ -166,7 +166,7 @@ input[type="range"].slider::-webkit-slider-thumb {
   /* margin-left: 30px; */
   width: 500px;
   /* border: 1px solid black; */
-  background-image: url('totalTrendGraph.png');
+  background-image: url('/totalTrendGraph.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -211,7 +211,7 @@ input[type="range"].slider::-webkit-slider-thumb {
   /* margin-left: 30px; */
   width: 500px;
   /* border: 1px solid black; */
-  background-image: url('trendLineByAge-axis.png');
+  background-image: url('/trendLineByAge-axis.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

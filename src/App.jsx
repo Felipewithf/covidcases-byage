@@ -42,8 +42,10 @@ function App() {
   return (
     <>
       <h1>Visualization of COVID-19 Cases</h1>
-      <h5>Data from Ontario, Canada from October 1, 2021 to May 31, 2022 </h5>
-      <h5><em>(Rate of COVID-19 cases per 100,000)</em></h5>
+      <h5>Data from Ontario, Canada. Between October 1, 2021 to May 31, 2022 </h5>
+      <h5><em>(Rate of COVID-19 cases per 100,000) | Data source: <a href='https://data.ontario.ca/dataset/covid-19-vaccine-data-in-ontario'>data.ontario.ca</a></em></h5>
+      <br />
+      <h5>The primary goal is to present the rate of covid-19 cases in a way that is user-friendly and meaningful for Ontario residents,<br /> enabling informed decision-making and raising awareness about case rates by age demographics in the province.</h5>
       <div className='dailyRates'>
         <div className='virusGraphHolder'>
           <div className='titleVirus'>
@@ -123,6 +125,7 @@ function App() {
           
         </div>
       </div>
+  
     </>
   )
 }
